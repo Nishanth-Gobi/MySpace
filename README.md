@@ -3,20 +3,20 @@
 A simple social media website built using Django
 
 ### Site preview
-
-<img href="">
-<img href="">
-<img href="">
-<img href="">
-<img href="">
-
+<!--
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+<img src="">
+-->
 ### ER diagram
 
-<img href="">
+<img src="https://github.com/Nishanth-Gobi/MySpace/blob/master/ER_diagram.png" width="685" height="576">
 
 ### Relational Schema
 
-<img href="">
+<!--<img src="">-->
 
 ### Credits
 Inspired by Jose Portilla's Django <a href="https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/"> tutorial </a> 
