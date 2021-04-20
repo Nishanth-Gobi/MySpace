@@ -1,15 +1,15 @@
 # MySpace
 
-A simple social media website built using Django
+A simple social media website built using Django and SQLite
 
 <hr>
 
 ## Site preview
 
-<img src="https://github.com/Nishanth-Gobi/MySpace/blob/master/Site_Preview/Home.png">
-<img src="https://github.com/Nishanth-Gobi/MySpace/blob/master/Site_Preview/SignUp_interface.png">
-<img src="https://github.com/Nishanth-Gobi/MySpace/blob/master/Site_Preview/Login_interface.png">
-<img src="https://github.com/Nishanth-Gobi/MySpace/blob/master/Site_Preview/Group_page.png">
+<img src="https://github.com/Nishanth-Gobi/MySpace/tree/master/Site_Preview/Homepage.png">
+<img src="https://github.com/Nishanth-Gobi/MySpace/tree/master/Site_Preview/SignUp.png">
+<img src="https://github.com/Nishanth-Gobi/MySpace/tree/master/Site_Preview/Login.png">
+<img src="https://github.com/Nishanth-Gobi/MySpace/tree/master/Site_Preview/Group-page.png">
 
 <hr>
 
@@ -21,7 +21,7 @@ A simple social media website built using Django
 
 ## Relational Schema
 
-<!--<img src="">-->
+<img src="https://github.com/Nishanth-Gobi/MySpace/blob/master/relational_schema.jpeg">
 
 <hr>
 
