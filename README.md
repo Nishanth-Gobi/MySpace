@@ -25,5 +25,5 @@ A simple social media website built using Django and SQLite
 
 <hr>
 
-## Credits
+## Reference
 Inspired by Jose Portilla's Django <a href="https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/"> tutorial </a> 
